@@ -1,2 +1,2 @@
-# digihost
+#hostiger
 for Hostings
