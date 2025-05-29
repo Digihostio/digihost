@@ -1,0 +1,2 @@
+# digihost
+for Hostings
